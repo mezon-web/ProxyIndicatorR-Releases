@@ -2,12 +2,18 @@
 
 Windows の通知領域で手動プロキシの状態を確認し、アイコンの左クリックで ON／OFF を切り替えられます。自動検出、セットアップスクリプト、保存済みサーバー、除外一覧は保持します。
 
-**[最新版をダウンロード](https://github.com/mezon-web/ProxyIndicatorR-Releases/releases/latest)**
+## ダウンロード
+
+**v0.1.2 / Windows x64**
+
+- **[ProxyIndicatorR-v0.1.2.zip をダウンロード](https://github.com/mezon-web/ProxyIndicatorR-Releases/releases/download/v0.1.2/ProxyIndicatorR-v0.1.2.zip)**
+- [ZIP の SHA-256](https://github.com/mezon-web/ProxyIndicatorR-Releases/releases/download/v0.1.2/ProxyIndicatorR-v0.1.2.zip.sha256)
+- [リリース詳細](https://github.com/mezon-web/ProxyIndicatorR-Releases/releases/tag/v0.1.2)
 
 ## 起動する
 
 1. Windows x64 に **.NET 10 Desktop Runtime（x64）** をインストールします。[Microsoft のダウンロードページ](https://dotnet.microsoft.com/ja-jp/download/dotnet/10.0)
-2. Release の Assets から `ProxyIndicatorR-v0.1.2.zip` をダウンロードして展開します。
+2. 上のリンクから `ProxyIndicatorR-v0.1.2.zip` をダウンロードして展開します。
 3. `ProxyIndicatorR-v0.1.2` フォルダーの `ProxyIndicatorR.exe` を起動します。同じフォルダーの `使い方.html` はオフラインで読めます。
 
 ## 操作する
