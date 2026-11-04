@@ -4,17 +4,17 @@ Windows の通知領域で手動プロキシの状態を確認し、アイコン
 
 ## ダウンロード
 
-**v0.1.3 / Windows x64**
+**v0.1.4 / Windows x64**
 
-- **[ProxyIndicatorR-v0.1.3.zip をダウンロード](https://github.com/mezon-web/ProxyIndicatorR-Releases/releases/download/v0.1.3/ProxyIndicatorR-v0.1.3.zip)**
-- [ZIP の SHA-256](https://github.com/mezon-web/ProxyIndicatorR-Releases/releases/download/v0.1.3/ProxyIndicatorR-v0.1.3.zip.sha256)
-- [リリース詳細](https://github.com/mezon-web/ProxyIndicatorR-Releases/releases/tag/v0.1.3)
+- **[ProxyIndicatorR-v0.1.4.zip をダウンロード](https://github.com/mezon-web/ProxyIndicatorR-Releases/releases/download/v0.1.4/ProxyIndicatorR-v0.1.4.zip)**
+- [ZIP の SHA-256](https://github.com/mezon-web/ProxyIndicatorR-Releases/releases/download/v0.1.4/ProxyIndicatorR-v0.1.4.zip.sha256)
+- [リリース詳細](https://github.com/mezon-web/ProxyIndicatorR-Releases/releases/tag/v0.1.4)
 
 ## 起動する
 
 1. Windows x64 に **.NET 10 Desktop Runtime（x64）** をインストールします。[Microsoft のダウンロードページ](https://dotnet.microsoft.com/ja-jp/download/dotnet/10.0)
-2. 上のリンクから `ProxyIndicatorR-v0.1.3.zip` をダウンロードして展開します。
-3. `ProxyIndicatorR-v0.1.3` フォルダーの `ProxyIndicatorR.exe` を起動します。同じフォルダーの `使い方.html` はオフラインで読めます。
+2. 上のリンクから `ProxyIndicatorR-v0.1.4.zip` をダウンロードして展開します。
+3. `ProxyIndicatorR-v0.1.4` フォルダーの `ProxyIndicatorR.exe` を起動します。同じフォルダーの `使い方.html` はオフラインで読めます。
 
 ## 操作する
 
@@ -28,7 +28,7 @@ Windows の通知領域で手動プロキシの状態を確認し、アイコン
 Release から ZIP と同名の `.sha256` ファイルも取得できます。PowerShell で ZIP の SHA-256 を計算し、ファイルに記載された値と比較してください。
 
 ```powershell
-Get-FileHash .\ProxyIndicatorR-v0.1.3.zip -Algorithm SHA256
+Get-FileHash .\ProxyIndicatorR-v0.1.4.zip -Algorithm SHA256
 ```
 
 [変更履歴](CHANGELOG.md) · [過去のリリース](https://github.com/mezon-web/ProxyIndicatorR-Releases/releases)
